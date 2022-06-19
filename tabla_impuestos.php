@@ -43,7 +43,7 @@ $total_final = $impuesto_total  + $precio_neto;
 <body>
 
     <div style="padding-left:2% ;padding-top:2%">
-        Consigna - Clase 6
+        Consigna - Clase 10
     </div>
     <div style="padding-left:2% ;padding-top:2%">
         <div style="border: 1px solid;width:70%;padding-left:2%;padding-top:2%;padding-right:3%;padding-bottom:3%">

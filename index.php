@@ -45,16 +45,16 @@
                     <th style="width:25% ;">Precio</th>
                 </tr>
                 <tr>
-                    <td><input type="text" class="form-control" id="codigo1" name="codigo1"></td>
-                    <td><input type="text" class="form-control" id="descripcion1" name="descripcion1"></td>
-                    <td><input type="text" class="form-control" id="cantidad1" name="cantidad1"></td>
-                    <td><input type="text" class="form-control" id="precio1" name="precio1"></td>
+                    <td><input type="text" class="form-control" id="codigo1" name="codigo1" required></td>
+                    <td><input type="text" class="form-control" id="descripcion1" name="descripcion1" required></td>
+                    <td><input type="text" class="form-control" id="cantidad1" name="cantidad1" required></td>
+                    <td><input type="text" class="form-control" id="precio1" name="precio1" required></td>
                 </tr>
                 <tr>
-                    <td><input type="text" class="form-control" id="codigo2" name="codigo2"></td>
-                    <td><input type="text" class="form-control" id="descripcion2" name="descripcion2"></td>
-                    <td><input type="text" class="form-control" id="cantidad2" name="cantidad2"></td>
-                    <td><input type="text" class="form-control" id="precio2" name="precio2"></td>
+                    <td><input type="text" class="form-control" id="codigo2" name="codigo2" required></td>
+                    <td><input type="text" class="form-control" id="descripcion2" name="descripcion2" required></td>
+                    <td><input type="text" class="form-control" id="cantidad2" name="cantidad2" required></td>
+                    <td><input type="text" class="form-control" id="precio2" name="precio2" required></td>
                 </tr>
             </table>
             <br>
